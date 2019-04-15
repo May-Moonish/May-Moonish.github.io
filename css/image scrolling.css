@@ -1,0 +1,22 @@
+/* GENERAL STYLING */
+body {
+  font: 18px/1.5 georgia, serif;
+}
+article {
+  width: 600px;
+  margin: 0 auto;
+}
+h1 {
+  font-weight: normal;
+  text-align: center;
+}
+
+/* IMAGE BLUR EFFECT */
+img {
+  max-width: 600px;
+}
+
+/*content*/
+p {
+  text-align: center;
+}
